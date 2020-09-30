@@ -4,7 +4,7 @@
 
 ### You can add extension by 
 ```python
-line 11 ('.png','.jpg',**HERE**): 
+line 11 ('.png','.jpg',"**HERE**"): 
 line 17 ('.zip',"HERE"):
 line 23 ('.exe'"HERE")
 ```
