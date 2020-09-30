@@ -4,9 +4,8 @@
 
 ### You can add extension by 
 ```python
-line 11 ('.png','.jpg',"__HERE__"): 
-line 17 ('.zip',"HERE"):
-line 23 ('.exe'"HERE")
+line 11 ('.png','.jpg', "HERE"): 
+line 17 ('.zip', "HERE"):
+line 23 ('.exe', "HERE")
 ```
-
-## PLACE YOUT FILE WHERE YOU WANT TO ORGANISE STUFF.
+## PLACE YOUR FILE WHERE YOU WANT TO ORGANISE STUFF.
