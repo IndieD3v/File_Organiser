@@ -2,7 +2,8 @@
 
 ### It Organises yor file on the base of File Type 
 
-### You can add extension by """
+### You can add extension by 
+"""
 if file_type in ('.png','.jpg',"HERE and so on for all"): 
 """
 
