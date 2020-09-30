@@ -4,7 +4,9 @@
 
 ### You can add extension by 
 ```python
-if file_type in ('.png','.jpg',"HERE and so on for all"): 
+line 11 ('.png','.jpg',"**HERE**"): 
+line 17 ('.zip',"HERE"):
+line 23 ('.exe'"HERE")
 ```
 
 ## PLACE YOUT FILE WHERE YOU WANT TO ORGANISE STUFF.
